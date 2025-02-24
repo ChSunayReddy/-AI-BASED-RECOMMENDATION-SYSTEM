@@ -41,3 +41,5 @@ Error handling and validation are essential for a robust system. Ensure the prog
 The deliverable for this project will be a fully functional Java program featuring a working recommendation engine and sample data. The program will demonstrate the AI-driven recommendation process, offering valuable insights and suggestions tailored to user preferences. This project will deepen your understanding of collaborative filtering, machine learning, and Java-based AI development.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/81190040-871b-4606-83a2-80f905f01f97)
